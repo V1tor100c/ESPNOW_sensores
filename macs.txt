@@ -1,0 +1,2 @@
+Mac esp botão: A8:42:E3:AE:F7:30
+Mac esp blink: 08:D1:F9:ED:A3:E0
